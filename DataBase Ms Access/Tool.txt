@@ -1,0 +1,8 @@
+MS Access Tools:
+
+Table :-> Store data.
+Queeries :-> Organize data.
+Forms :-> Display data on screen.
+Reports :-> Print out data.
+Macros :-> Automate tasks.
+Modules :-> programming.

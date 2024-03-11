@@ -1,0 +1,30 @@
+1-imei check from back and from about phone.
+	-Checking body's IMEI, Box IMEI
+	*#06#
+	-Settings> General > About > Imei (Cross check with Mobile pack) 
+
+2-camera dust in bright sun light.
+	- dost or particles in camera area
+	- Press phone from all arround and feel sound etc, 
+	- See Dust in camera. 
+3-battery percentage and battery bulge.
+	-90% is good, Bellow 80% should be avoid. 
+	- place your iphone on plane surface and look throuly.
+4- WaterProof: Volumen etc check either a singal keypress missing ? 
+5-icloud setup must.
+6-wifi and sim check must, 
+	- Hotspot and search any website
+9-Id card copy and warranty of two dayz.
+10 - Physical Condition: Packing, origional charger
+	-Charging port have no dots demage etc, 
+	- Plug in charge pen from both sides to confirm having no problems. 
+11- PTA DIRBS: Check there..
+	- Should be register against the specific set
+	- Visit on Iunlocker (website)
+12: Panel check: 
+	- Brightness low/High, 
+	- Vlume up/down, 
+	- move app to all the cornor of screen. 
+13: bluetooth is working? 
+14: Camera: Capture picture and see from close either have any blur pixel etc. 
+	-every singal mode. 
